@@ -5,3 +5,5 @@ git log
 git branch 
 git checkout 
 зміни не відображаються у файлі README.md на гілці master, оскільки вони були внесені на іншу гілку new_branch.
+git add README.md
+git commit -m"lab_2"
