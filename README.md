@@ -4,3 +4,4 @@
 git log 
 git branch 
 git checkout 
+Lab_2: зміни до README.md файлу були внесені на гілці new_branch та не відображаються на гілці master.
